@@ -1,4 +1,4 @@
-# Online Voting System
+# VoteX - The Online Voting System
 
 ## Project Overview
 The **Online Voting System** is a secure, web-based platform designed to facilitate digital elections. It allows voters to register, login, and cast their votes. Candidates can create profiles, and admins can manage elections, verify candidates, and calculate results. The system ensures anonymity and transparency in the voting process.
